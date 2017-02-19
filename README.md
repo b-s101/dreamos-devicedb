@@ -1,2 +1,2 @@
-# ha-bridge-dreamos-devicedb
+# dreamos-devicedb
 device.db for use with DreamOS

@@ -1,0 +1,639 @@
+[
+  {
+    "deviceType": "custom", 
+    "id": "44", 
+    "inactive": false, 
+    "name": "Discovery HaDe", 
+    "noState": false, 
+    "onUrl": "[{\"item\":\"http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A82%3A6%3A85%3AC00000%3A0%3A0%3A0%3A\",\"type\":\"httpDevice\",\"contentType\":\"text/html\",\"httpVerb\":\"GET\"}]", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:2C-2C"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "45", 
+    "inactive": false, 
+    "name": "TOGGO plus", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A1%3A2EFE%3A441%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:2D-2D"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "46", 
+    "inactive": false, 
+    "name": "E! Entertainm. HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A80%3AE%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:2E-2E"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "47", 
+    "inactive": false, 
+    "name": "Sky Cinema +24 HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A87%3A8%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:2F-2F"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "48", 
+    "inactive": false, 
+    "name": "Sky Cinema Action HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A74%3AB%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:30-30"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "49", 
+    "inactive": false, 
+    "name": "Sky Cinema Comedy", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A16%3A8%3A3%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:31-31"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "50", 
+    "inactive": false, 
+    "name": "Sky Cinema Family HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A8B%3A8%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:32-32"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "51", 
+    "inactive": false, 
+    "name": "Sky Cinema HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A83%3A6%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:33-33"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "52", 
+    "inactive": false, 
+    "name": "Sky Cinema Hits HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A6B%3AC%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:34-34"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "53", 
+    "inactive": false, 
+    "name": "Sky Krimi", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A16%3A17%3A4%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:35-35"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "10", 
+    "inactive": false, 
+    "name": "pro sieben", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF75%3A3F9%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:0A-0A"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "54", 
+    "inactive": false, 
+    "name": "Spiegel Geschichte HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A89%3AA%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:36-36"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "11", 
+    "inactive": false, 
+    "name": "TLC HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A2774%3A409%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:0B-0B"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "55", 
+    "inactive": false, 
+    "name": "TELE 5 HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A1519%3A455%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:37-37"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "12", 
+    "inactive": false, 
+    "name": "13th Street HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A7F%3AD%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:0C-0C"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "56", 
+    "inactive": false, 
+    "name": "sat eins", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF74%3A3F9%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:38-38"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "13", 
+    "inactive": false, 
+    "name": "RTL Crime HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A8C%3A9%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:0D-0D"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "57", 
+    "inactive": false, 
+    "name": "six", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF77%3A3F9%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:39-39"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "14", 
+    "inactive": false, 
+    "name": "ANIXE HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A526C%3A41D%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:0E-0E"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "58", 
+    "inactive": false, 
+    "name": "ServusTV HaDe Deutschland", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A1332%3A3EF%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:3A-3A"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "15", 
+    "inactive": false, 
+    "name": "Dee Max", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A151A%3A455%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:0F-0F"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "59", 
+    "inactive": false, 
+    "name": "Sky 1 HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A93%3A8%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:3B-3B"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "16", 
+    "inactive": false, 
+    "name": "ATV HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A33AC%3A3EB%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:10-10"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "17", 
+    "inactive": false, 
+    "name": "ErTee El", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF10%3A421%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:11-11"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "18", 
+    "inactive": false, 
+    "name": "ATV2", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A1%3A33A7%3A3EB%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:12-12"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "19", 
+    "inactive": false, 
+    "name": "TNT Comedy HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A88%3AE%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:13-13"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "1", 
+    "inactive": false, 
+    "name": "VOX HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF11%3A421%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:01-01"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "2", 
+    "inactive": false, 
+    "name": "Sky Cinema +1 HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A86%3A8%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:02-02"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "3", 
+    "inactive": false, 
+    "name": "History HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A71%3AB%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:03-03"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "4", 
+    "inactive": false, 
+    "name": "kinderkanal", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A2B98%3A3F2%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:04-04"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "5", 
+    "inactive": false, 
+    "name": "MGM HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A73%3AC%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:05-05"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "6", 
+    "inactive": false, 
+    "name": "Motorvision TV", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A16%3AA8%3A9%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:06-06"
+  }, 
+  {
+    "contentType": "text/html", 
+    "deviceType": "TCP", 
+    "httpVerb": "GET", 
+    "id": "7", 
+    "inactive": false, 
+    "name": "fernseher", 
+    "noState": false, 
+    "offUrl": "[{\"item\":\"http://127.0.0.1/web/powerstate?newstate=0\",\"type\":\"httpDevice\",\"httpVerb\":\"GET\",\"contentType\":\"text/html\"}]", 
+    "onUrl": "[{\"item\":\"http://127.0.0.1/web/powerstate?newstate=0\",\"type\":\"httpDevice\",\"httpVerb\":\"GET\",\"contentType\":\"text/html\"}]", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:07-07"
+  }, 
+  {
+    "contentType": "text/html", 
+    "deviceType": "TCP", 
+    "httpVerb": "GET", 
+    "id": "8", 
+    "inactive": false, 
+    "name": "audio", 
+    "noState": false, 
+    "offUrl": "[{\"item\":\"http://127.0.0.1/web/vol?set=mute\",\"type\":\"httpDevice\",\"httpVerb\":\"GET\",\"contentType\":\"text/html\"}]", 
+    "onUrl": "[{\"item\":\"http://127.0.0.1/web/vol?set=mute\",\"type\":\"httpDevice\",\"httpVerb\":\"GET\",\"contentType\":\"text/html\"}]", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:08-08"
+  }, 
+  {
+    "deviceType": "TCP", 
+    "id": "9", 
+    "inactive": false, 
+    "name": "timeshift", 
+    "noState": false, 
+    "offUrl": "[{\"item\":\"http://127.0.0.1/mobile/wapremote.html?command=207&rcu=advanced\",\"type\":\"httpDevice\",\"httpVerb\":\"GET\",\"contentType\":\"text/html\"}]", 
+    "onUrl": "[{\"item\":\"http://127.0.0.1/mobile/wapremote.html?command=207&rcu=advanced\",\"type\":\"httpDevice\",\"httpVerb\":\"GET\",\"contentType\":\"text/html\"}]", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:09-09"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "60", 
+    "inactive": false, 
+    "name": "Universal HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A65%3AE%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:3C-3C"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "61", 
+    "inactive": false, 
+    "name": "Sky Arts HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A91%3A9%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:3D-3D"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "62", 
+    "inactive": false, 
+    "name": "Fox HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A7C%3AA%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:3E-3E"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "63", 
+    "inactive": false, 
+    "name": "Sky Atlantic HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A6E%3AD%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:3F-3F"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "20", 
+    "inactive": false, 
+    "name": "das zweite", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A2B66%3A3F3%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:14-14"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "21", 
+    "inactive": false, 
+    "name": "ErTee El zwei", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF15%3A421%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:15-15"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "22", 
+    "inactive": false, 
+    "name": "Das Erste HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A283D%3A3FB%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:16-16"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "23", 
+    "inactive": false, 
+    "name": "ErTee El Nitro", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A2EAF%3A411%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:17-17"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "24", 
+    "inactive": false, 
+    "name": "TNT Film (TCM)", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A16%3A195%3A6%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:18-18"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "25", 
+    "inactive": false, 
+    "name": "NICKELODEON HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A5273%3A41D%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:19-19"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "26", 
+    "inactive": false, 
+    "name": "dreambox Aufnahme", 
+    "noState": false, 
+    "onUrl": "[{\"item\":\"http://10.45.223.124:80/api/recordnow\"}]", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:1A-1A"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "27", 
+    "inactive": false, 
+    "name": "Nat Geo Wild HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A76%3A6%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:1B-1B"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "28", 
+    "inactive": false, 
+    "name": "NatGeo HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A70%3AD%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:1C-1C"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "29", 
+    "inactive": false, 
+    "name": "ORF III HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A33FC%3A3ED%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:1D-1D"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "30", 
+    "inactive": false, 
+    "name": "ORF SPORT+ HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A33FD%3A3ED%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:1E-1E"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "31", 
+    "inactive": false, 
+    "name": "ORF1 HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A132F%3A3EF%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:1F-1F"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "32", 
+    "inactive": false, 
+    "name": "ORF2W HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A1330%3A3EF%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:20-20"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "33", 
+    "inactive": false, 
+    "name": "pro sieben max", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF78%3A3F9%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:21-21"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "34", 
+    "inactive": false, 
+    "name": "ZDFinfo HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A2BA2%3A3F2%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:22-22"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "35", 
+    "inactive": false, 
+    "name": "arte HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A283E%3A3FB%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:23-23"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "36", 
+    "inactive": false, 
+    "name": "kabel eins HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF76%3A3F9%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:24-24"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "37", 
+    "inactive": false, 
+    "name": "en vierundzwanzig", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A5274%3A41D%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:25-25"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "38", 
+    "inactive": false, 
+    "name": "RTLplus", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A1%3A2F30%3A441%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:26-26"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "39", 
+    "inactive": false, 
+    "name": "n-tv HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3AEF14%3A421%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:27-27"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "40", 
+    "inactive": false, 
+    "name": "Deluxe Music HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A157F%3A41F%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:28-28"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "41", 
+    "inactive": false, 
+    "name": "NDR FS NDS HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A2857%3A401%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:29-29"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "42", 
+    "inactive": false, 
+    "name": "SAT.1 Gold", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A1%3A4460%3A453%3A1%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:2A-2A"
+  }, 
+  {
+    "deviceType": "custom", 
+    "id": "43", 
+    "inactive": false, 
+    "name": "TNT Serie HaDe", 
+    "noState": false, 
+    "onUrl": "http://127.0.0.1/web/zap?sRef=1%3A0%3A19%3A7B%3AB%3A85%3AC00000%3A0%3A0%3A0%3A", 
+    "targetDevice": "Encapsulated", 
+    "uniqueid": "00:17:88:5E:D3:2B-2B"
+  }
+]
